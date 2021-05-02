@@ -10,7 +10,7 @@ Nothing interesting here, small little tests here and there. don't come back lol
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-# Credits
+## Credits
 https://github.com/yash-dk/TorToolkit-Telegram
 
 https://github.com/tortoolkit/TorToolkit-Telegram
