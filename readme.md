@@ -5,7 +5,7 @@ Torrent & YT-DL Leech Bot
 Nothing interesting here, small little tests here and there. don't come back lol.
 ## Deploy via Heroku
 - Fork this repository
-- Before deploy, you should change the configs. 
+- Before deploying, you should change the configs. 
 - Tortoolkit > Consts > ExecVarsSample.py
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
