@@ -1,7 +1,7 @@
 # TorToolkit Telegram Bot
 Torrent & YT-DL Leech Bot
 ## Deploy via Heroku
-- Fork this repositry
+- Fork this repository
 - Before deploy, you should change the configs. 
 - Tortoolkit > Consts > ExecVarsSample.py
 
@@ -9,6 +9,8 @@ Torrent & YT-DL Leech Bot
 
 # Credits
 https://github.com/yash-dk/TorToolkit-Telegram
+
+https://github.com/tortoolkit/TorToolkit-Telegram
 
 # Variables
 `IS_VPS` = False
